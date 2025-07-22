@@ -13,7 +13,7 @@ Image Classification: Predicts the breed of a dog from an input image. Pre-Train
 
 Tech Stack :- Frontend: Python-based libraries for visualization (e.g., Streamlit, Flask). Backend: Machine learning model developed using TensorFlow or PyTorch. Dataset: Trained on publicly available datasets like the Stanford Dogs Dataset or Kaggle’s dog breed datasets. Deployment: Deployed on cloud platforms (e.g., AWS, Google Cloud) or accessible locally.
 
-##How It Works :-
+## How It Works :-
 
 Data Preprocessing: The input image is resized, normalized, and processed to meet the model's requirements. Prediction: The trained model analyzes the image and predicts the breed with a probability score. Result Display: The identified breed, along with confidence levels, is presented to the user. Feedback: Users can provide feedback to improve model performance over time (optional).
 
