@@ -23,7 +23,7 @@ Pet Care: Assists pet owners and vets in identifying dog breeds accurately. Resc
 
 Installation and Setup :-
 
-Clone the repository: bash Copy code git clone 
+Clone the repository: bash Copy code git clone https://github.com/BALAKRISHNA127/Dog-Breed-Detectiion-using-ML
 
 Install the required dependencies:
 
